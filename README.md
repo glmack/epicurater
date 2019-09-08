@@ -15,11 +15,11 @@ Raw strings of customer reviews were extracted, processed and represented to mod
     3) vectorization techniques using term-frequency inverse document frequency (TFIDF) algorithms. 
 The prediction target comprised three classes representing positive, neutral and negative customer sentiment, which we created by aggregating customer-defined scores on a 1 to 5 basis, where out positive sentiment class = user score of 5, neutral sentiment class = score of 4, and negative sentiment class = scores of 1, 2, or 3.
 
-## **Modeling**
+### **Modeling**
 The basic modelling task was multi-class classification using text features. Models tested included logistic regression, support vector machines, and boosting ensemble models from the XG boost library.
 
-## **Evaluation** 
+### **Evaluation** 
 We evaluate model performance and associated parameter specifications using log loss and accuracy score metrics. The test set evaluation results for the initial top-performing model, a logistic regression classifier, was 0.75, and the log loss was 0.56. 
 
-## **Deployment**
+### **Deployment**
 We deployed the top performing model through a flask app for the purpose of basic user testing.
