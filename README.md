@@ -1,3 +1,5 @@
+**[summary](#techniche) | [usage](#usage) | [walk through notebooks](#running-the-notebooks) | [license](#license)**
+
 ## Epicurater
 
 [![Build Status](https://travis-ci.org/glmack/epicurater.svg?branch=master)](https://travis-ci.org/glmack/epicurater.svg?branch=master)
