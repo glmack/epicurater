@@ -1,5 +1,6 @@
 ## Epicurater
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/glmack/epicurater/master)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 Epicurater predicts multi-class customer sentiment using text features from labelled customer reviews of restaurants from Yelp and Google.
