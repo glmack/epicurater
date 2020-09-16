@@ -1,2 +1,5 @@
-# These are vendored files for github linguist to ignore
+# These are vendored files for Github linguist to ignore
 static/** linguist-vendored
+
+# Reclassify `.ipynb` files as Python for Github linguist
+*.rb linguist-language=Java
