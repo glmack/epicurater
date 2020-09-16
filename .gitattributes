@@ -2,4 +2,4 @@
 static/** linguist-vendored
 
 # Reclassify `.ipynb` files as Python for Github linguist
-*.rb linguist-language=Java
+*.ipynb linguist-language=Python
