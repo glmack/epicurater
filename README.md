@@ -1,4 +1,11 @@
+**[summary](#techniche) | [usage](#usage) | [walk through notebooks](#running-the-notebooks) | [license](#license)**
+
 ## Epicurater
+
+[![Build Status](https://travis-ci.org/glmack/epicurater.svg?branch=master)](https://travis-ci.org/glmack/epicurater.svg?branch=master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glmack/epicurater/master)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 Epicurater predicts multi-class customer sentiment using text features from labelled customer reviews of restaurants from Yelp and Google.
 
 ### **Business understanding**
